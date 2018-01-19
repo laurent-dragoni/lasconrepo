@@ -33,5 +33,20 @@ https://daringfireball.net/projects/markdown/ - automatic!
 > way that the noonday sun does the stars. It is not just bigger and 
 > brighter; it simply makes everything else vanish.
 
+In [Python 3](https://docs.python.org/3/tutorial/index.html) tutorial
+the first Python expression is `the_world_is_flat = True`.
+
+Section [5.1.3 of Python's tutorial](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+introduces the _list comprehension_ with:
+
+```python
+squares = [x**2 for x in range(10)]
+``` 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 
